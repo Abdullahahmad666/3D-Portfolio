@@ -60,17 +60,19 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
     title: "NodeJs Developer",
     icon: backend,
   },
+   
   {
     title: "Javascript Developer",
     icon: creator,
   },
+  {
+    title: "React Native Developer",
+    icon: mobile,
+  },
+ 
 ];
 
 const technologies = [
@@ -195,7 +197,7 @@ const experiences = [
     company_website: "https://proximus.surge.sh/index.html",
     icon: proximus,
     iconBg: "#E6DEDD",
-    date: "Jan 2018 - Jan 2021",
+    date: "Jan 2020 - Jan 2021",
     points: [
       "Spearheaded the development of a fully responsive website for the college coding society.",
       "Led coding sessions, actively sharing knowledge and insights to enrich members' programming skills and understanding.",
