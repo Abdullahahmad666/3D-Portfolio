@@ -17,7 +17,6 @@ import {
   java,
   mysql,
   git,
-  proximus,
   aptihealthWeb,
   aptihealthApp,
   zealWeb,
@@ -27,6 +26,9 @@ import {
   linkedIn,
   github,
 } from "../assets/";
+import Sovanza from '../assets/company/sovanza.png';
+import HashStack from '../assets/company/hashstack.png';
+import User from '../assets/company/user.png';
 
 const navigationPaths = {
   home: "/",
@@ -136,7 +138,7 @@ const experiences = [
     title: "Frontend Developer",
     company_name: "Self-employed",
     company_website: "",
-    icon: proximus,
+    icon: User,
     iconBg: "#E6DEDD",
     date: "April 2024 - Present",
     points: [
@@ -154,7 +156,7 @@ const experiences = [
     title: "Frontend Intern",
     company_name: "Sovanza",
     company_website: "https://sovanza.com/",
-    icon: "sovanza.png",
+    icon: Sovanza,
     iconBg: "#E6DEDD",
     date: "January 2024 – March 2024",
     points: [
@@ -171,7 +173,7 @@ const experiences = [
     title: "MERN Stack Intern",
     company_name: "HashStack Developers",
     company_website: "https://hashstackdevelopers.com/",
-    icon: skillrisers,
+    icon: HashStack,
     iconBg: "#E6DEDD",
     date: "June 2023 – July 2023",
     points: [
