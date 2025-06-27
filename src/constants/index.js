@@ -343,14 +343,8 @@ const personalInfo = {
   fullName: "Abdullah Ahmad",
   email: "abdullah.ahmad3579@gmail.com",
   role: "Software Engineer",
-  about: `I'm a skilled software engineer with experience in Javascript and Xml and expertise in 
-  frameworks like React.Js, React-naitve,Node.js etc. I'm a quick learner and collaborate 
-  closely with clients to create efficient, scalable, and user-friendly solutions that solve
-  real-world problems. Let's work together to bring your ideas to life!`,
-  projectsIntro: `Following projects showcases my skills and experience through
-  real-world examples of my work. Each project is briefly described with
-  live demos. It reflects my ability to solve complex problems, work
-  with different technologies, and manage projects effectively.`,
+  about: `I'm a skilled Software Engineer with hands-on experience in JavaScript and XML, and strong expertise in modern frameworks like React.js, React Native, and Node.js. I’m a fast learner who thrives in collaborative environments, working closely with clients to build efficient, scalable, and user-friendly solutions that solve real-world problems. Let’s bring your ideas to life with clean, impactful code.`,
+  projectsIntro: `The following projects showcase my skills and experience through real-world examples of my work. Each project includes a brief description and a live demo, highlighting my ability to solve complex problems, work with diverse technologies, and manage projects efficiently.`,
 };
 
 const publicUrls = {
