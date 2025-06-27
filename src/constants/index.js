@@ -17,10 +17,6 @@ import {
   java,
   mysql,
   git,
-  crmnext,
-  nickelfox,
-  newgen,
-  skillrisers,
   proximus,
   aptihealthWeb,
   aptihealthApp,
@@ -30,7 +26,7 @@ import {
   rollApp,
   linkedIn,
   github,
-} from "../assets";
+} from "../assets/";
 
 const navigationPaths = {
   home: "/",
@@ -135,76 +131,57 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "Software Engineer",
-    company_name: "Crmnext",
-    company_website: "https://www.businessnext.com/crm",
-    icon: crmnext,
-    iconBg: "#E6DEDD",
-    date: "Nov 2023 - Present",
-    points: [
-      "Developed Flow and Layout Designers for HDFC, PNB, IOB, and Utkarsh Bank.",
-      "Boosted team efficiency by 50% by implementing monorepo architecture and reusable Design-System.",
-      "Integrated GenAI models to automate flow creation from user prompts, eliminating manual configuration efforts.",
-      "Integrated unit testing with 80% code coverage, enhancing code reliability and reducing bugs.",
-    ],
-  },
-  {
-    title: "Software Engineer",
-    company_name: "Nickelfox Technologies",
-    company_website: "https://www.nickelfox.com/",
-    icon: nickelfox,
-    iconBg: "#E6DEDD",
-    date: "Jan 2022 - Nov 2023",
-    points: [
-      "Developing and maintaining web and mobile applications using React.js, React-native and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Software Developer",
-    company_name: "Newgen Software",
-    company_website: "https://newgensoft.com/home-india/",
-    icon: newgen,
-    iconBg: "#E6DEDD",
-    date: "Mar 2021 - Dec 2021",
-    points: [
-      "Developed a groundbreaking banking product for a Singapore-based firm, improved transaction management.",
-      "Developed a dynamic dashboard for efficient transaction management, resulting in a 30% increase in productivity.",
-      "Optimized frontend performance by achieving 20% reduction in page loading time and make it responsive.",
-      "Created a transaction report generator, reducing report generation time by 50% and enhancing data analysis.",
-    ],
-  },
-  {
-    title: "Software Engineer Intern",
-    company_name: "Skillrisers",
-    company_website: "https://www.skillrisers.com/",
-    icon: skillrisers,
-    iconBg: "#E6DEDD",
-    date: "Jan 2020 - Jul 2020",
-    points: [
-      "Contributed to the development of a Test Engine Application, empowering users to create and conduct tests seamlessly.",
-      "Built three essential modules: Teacher, Student, and Admin, ensuring comprehensive functionality for all user roles.",
-      "Collaborated effectively with the development team, actively participating in code reviews and resolving technical challenges.",
-      "Demonstrated strong problem-solving skills, consistently delivering high-quality code and meeting project deadlines.",
-    ],
-  },
+
   {
     title: "Frontend Developer",
     company_name: "Self-employed",
-    company_website: "https://proximus.surge.sh/index.html",
+    company_website: "",
     icon: proximus,
     iconBg: "#E6DEDD",
-    date: "Jan 2020 - Jan 2021",
+    date: "April 2024 - Present",
     points: [
-      "Spearheaded the development of a fully responsive website for the college coding society.",
-      "Led coding sessions, actively sharing knowledge and insights to enrich members' programming skills and understanding.",
-      "Organized informative sessions on cutting-edge technologies, including JavaScript and ReactJs.",
-      "Curated and designed challenging coding problems for college competitions.",
+      "Developed and customized Shopify stores, including theme editing, product integration, and responsive design enhancements.",
+
+"Created professional-grade LaTeX documents, including technical reports, resumes, and formatted academic content.",
+
+"Delivered freelance React.js projects for clients based in the UK and Germany, focusing on dynamic front-end interfaces and performance optimization.",
+
+"Collaborated with international clients to gather requirements, implement feedback, and ensure timely delivery of high-quality web solutions.",
     ],
   },
+ 
+  {
+    title: "Frontend Intern",
+    company_name: "Sovanza",
+    company_website: "https://sovanza.com/",
+    icon: "sovanza.png",
+    iconBg: "#E6DEDD",
+    date: "January 2024 – March 2024",
+    points: [
+      "Built responsive and interactive user interfaces using React.js, HTML, CSS, and JavaScript.",
+
+"Utilized React hooks (useState, useEffect) and component-based architecture to manage UI logic efficiently.",
+
+"Integrated RESTful APIs and handled asynchronous data rendering.",
+
+"Ensured cross-browser compatibility and mobile responsiveness for a seamless user experience.",
+    ],
+  },
+  {
+    title: "MERN Stack Intern",
+    company_name: "HashStack Developers",
+    company_website: "https://hashstackdevelopers.com/",
+    icon: skillrisers,
+    iconBg: "#E6DEDD",
+    date: "June 2023 – July 2023",
+    points: [
+      "Contributed to full-stack web development projects using the MERN stack (MongoDB, Express.js, React, Node.js) to build dynamic, scalable, and responsive web applications.",
+      "Developed and maintained RESTful APIs, ensuring efficient data retrieval and manipulation.",
+      "Collaborated with cross-functional teams to design and implement user-friendly interfaces, enhancing user experience", 
+      "Collaborated with senior developers to implement RESTful APIs, manage backend logic, and enhance front-end functionality for a seamless user experience.",
+    ],
+  },
+  
 ];
 
 const projects = [
