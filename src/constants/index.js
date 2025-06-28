@@ -17,6 +17,8 @@ import {
   java,
   mysql,
   git,
+  payroll,
+  business,
   aptihealthWeb,
   aptihealthApp,
   zealWeb,
@@ -290,7 +292,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: rollWeb,
+    image: business,
     hosted_link: "https://asuppaltrading-website.vercel.app/",
   },
   {
@@ -311,7 +313,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: rollApp,
+    image: payroll,
     hosted_link:
       "https://frontend-payroll.vercel.app/",
   },

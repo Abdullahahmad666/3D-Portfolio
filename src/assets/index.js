@@ -35,6 +35,8 @@ import zealWeb from "./projects/zealWeb.png";
 import zealApp from "./projects/zealApp.png";
 import rollWeb from "./projects/rollWeb.png";
 import rollApp from "./projects/rollApp.png";
+import payroll from "./projects/payroll.png";
+import business from "./projects/businesswebsite.png";
 
 export {
   logo,
