@@ -294,9 +294,9 @@ const projects = [
     hosted_link: "https://app.tryroll.com/",
   },
   {
-    name: "Roll App",
+    name: "Payroll Management System",
     description:
-      "Join the future of decentralized communities and digital assets with Roll. Earn, redeem, send, and trade social tokens on this innovative platform. Experience transparent transactions and captivating UI design.",
+      "A web-based Payroll Management System that automates employee salary calculation, tax deductions, and payslip generation. It simplifies payroll processing for small businesses with secure access and easy management.",
     tags: [
       {
         name: "react-native-web",
