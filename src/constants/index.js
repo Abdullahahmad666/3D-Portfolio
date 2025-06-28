@@ -67,7 +67,7 @@ const services = [
     icon: creator,
   },
   {
-    title: "React Native Developer",
+    title: "Shopify Developer",
     icon: mobile,
   },
  
