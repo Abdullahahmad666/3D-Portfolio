@@ -23,8 +23,6 @@ import {
   aptihealthApp,
   zealWeb,
   zealApp,
-  rollWeb,
-  rollApp,
   linkedIn,
   github,
 } from "../assets/";

@@ -33,8 +33,6 @@ import aptihealthWeb from "./projects/aptihealthWeb.png";
 import aptihealthApp from "./projects/aptihealthApp.png";
 import zealWeb from "./projects/zealWeb.png";
 import zealApp from "./projects/zealApp.png";
-import rollWeb from "./projects/rollWeb.png";
-import rollApp from "./projects/rollApp.png";
 import payroll from "./projects/payroll.png";
 import business from "./projects/businesswebsite.png";
 
@@ -72,6 +70,6 @@ export {
   aptihealthApp,
   zealWeb,
   zealApp,
-  rollWeb,
-  rollApp,
+  payroll,
+  business,
 };
