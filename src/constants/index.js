@@ -22,7 +22,7 @@ import {
   aptihealthWeb,
   aptihealthApp,
   zealWeb,
-  zealApp,
+  rangza,
   linkedIn,
   github,
 } from "../assets/";
@@ -107,7 +107,7 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Angular",
+    name: "Shopify",
     icon: angular,
   },
   {
@@ -251,26 +251,26 @@ const projects = [
     hosted_link: "https://getzeal.co/",
   },
   {
-    name: "Zeal App",
+    name: "Rangza",
     description:
-      "Discover a world of activities with friends through Zeal, an engaging platform. Create events, post updates, chat, and enjoy in-person activities hassle-free. Boost your social life with Zeal!",
+      "A Shopify store offering handmade decoration pieces and customizable templates for personal and event use. I developed and customized the storefront to enhance user experience and support personalized orders.",
     tags: [
       {
-        name: "react-native",
+        name: "shopify",
         color: "blue-text-gradient",
       },
       {
-        name: "sendgrid",
+        name: "liquid",
         color: "green-text-gradient",
       },
       {
-        name: "typescript",
+        name: "css",
         color: "pink-text-gradient",
       },
     ],
-    image: zealApp,
+    image: rangza,
     hosted_link:
-      "https://apps.apple.com/us/app/zeal-activities-with-friends/id6446917140",
+      "https://rangza.net/",
   },
   {
     name: "Business Website",

@@ -32,9 +32,9 @@ import proximus from "./company/proximus.png";
 import aptihealthWeb from "./projects/aptihealthWeb.png";
 import aptihealthApp from "./projects/aptihealthApp.png";
 import zealWeb from "./projects/zealWeb.png";
-import zealApp from "./projects/zealApp.png";
 import payroll from "./projects/payroll.png";
 import business from "./projects/businesswebsite.png";
+import rangza from "./projects/rangza.png";
 
 export {
   logo,
@@ -69,7 +69,7 @@ export {
   aptihealthWeb,
   aptihealthApp,
   zealWeb,
-  zealApp,
+  rangza,
   payroll,
   business,
 };
