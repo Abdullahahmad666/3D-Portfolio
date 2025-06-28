@@ -273,25 +273,25 @@ const projects = [
       "https://apps.apple.com/us/app/zeal-activities-with-friends/id6446917140",
   },
   {
-    name: "Roll Web",
+    name: "Business Website",
     description:
-      "The Roll website is the gateway to the future of decentralized communities and digital assets. It allows users to seamlessly earn, redeem, send, and trade social tokens.",
+      "A web-based platform specializing in bulk purchasing and trading of diverse materials including iron, aluminum, vehicles, and electronics. We connect buyers and suppliers for efficient, large-scale procurement with reliable sourcing.",
     tags: [
       {
         name: "reactjs",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "formik",
+        name: "business",
         color: "pink-text-gradient",
       },
     ],
     image: rollWeb,
-    hosted_link: "https://app.tryroll.com/",
+    hosted_link: "https://asuppaltrading-website.vercel.app/",
   },
   {
     name: "Payroll Management System",
@@ -299,21 +299,21 @@ const projects = [
       "A web-based Payroll Management System that automates employee salary calculation, tax deductions, and payslip generation. It simplifies payroll processing for small businesses with secure access and easy management.",
     tags: [
       {
-        name: "react-native-web",
+        name: "react-web",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "css",
         color: "green-text-gradient",
       },
       {
-        name: "storybook",
+        name: "management",
         color: "pink-text-gradient",
       },
     ],
     image: rollApp,
     hosted_link:
-      "https://play.google.com/store/apps/details?id=com.roll&hl=en_GB",
+      "https://frontend-payroll.vercel.app/",
   },
 ];
 
