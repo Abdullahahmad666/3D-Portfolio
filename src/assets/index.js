@@ -19,7 +19,7 @@ import java from "./tech/java.png";
 import mysql from "./tech/mysql.png";
 import reactjs from "./tech/reactjs.png";
 import nextJs from "./tech/nextjs.svg";
-import angular from "./tech/angular.png";
+import shopifyy from "./tech/shopifyy.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
@@ -57,7 +57,7 @@ export {
   mysql,
   reactjs,
   nextJs,
-  angular,
+  shopifyy,
   redux,
   tailwind,
   typescript,

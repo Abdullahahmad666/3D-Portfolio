@@ -11,7 +11,7 @@ import {
   nextJs,
   redux,
   tailwind,
-  angular,
+  shopifyy,
   nodejs,
   mongodb,
   java,
@@ -108,7 +108,7 @@ const technologies = [
   },
   {
     name: "Shopify",
-    icon: angular,
+    icon: shopifyy,
   },
   {
     name: "Node JS",
