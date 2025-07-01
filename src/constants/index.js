@@ -17,11 +17,9 @@ import {
   java,
   mysql,
   git,
-  payroll,
+
   business,
-  aptihealthWeb,
-  aptihealthApp,
-  zealWeb,
+  
   rangza,
   linkedIn,
   github,
@@ -188,69 +186,6 @@ const experiences = [
 
 const projects = [
   {
-    name: "Aptihealth Web",
-    description:
-      "Revolutionizing mental healthcare in New York State with a user-friendly platform for personalized therapy and progress tracking. Provides the digital gateway to comprehensive behavioral healthcare.",
-    tags: [
-      {
-        name: "reactjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "redux",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nodejs",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: aptihealthWeb,
-    hosted_link: "https://www.aptihealth.com/",
-  },
-  {
-    name: "Aptihealth App",
-    description:
-      "Access top-notch mental healthcare anytime, anywhere in New York State with our innovative app. Track your progress, schedule appointments, and connect with expert therapists for personalized care.",
-    tags: [
-      {
-        name: "react-native",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "sendbird",
-        color: "green-text-gradient",
-      },
-      {
-        name: "twilio",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: aptihealthApp,
-    hosted_link: "https://apps.apple.com/us/app/aptihealth/id1477170874",
-  },
-  {
-    name: "Zeal Web",
-    description:
-      "The Zeal website elevates the experience of enjoying activities with trusted friends, fostering connections and making every interaction exciting.",
-    tags: [
-      {
-        name: "reactjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: zealWeb,
-    hosted_link: "https://getzeal.co/",
-  },
-  {
     name: "Rangza",
     description:
       "A Shopify store offering handmade decoration pieces and customizable templates for personal and event use. I developed and customized the storefront to enhance user experience and support personalized orders.",
@@ -292,28 +227,6 @@ const projects = [
     ],
     image: business,
     hosted_link: "https://asuppaltrading-website.vercel.app/",
-  },
-  {
-    name: "Payroll Management System",
-    description:
-      "A web-based Payroll Management System that automates employee salary calculation, tax deductions, and payslip generation. It simplifies payroll processing for small businesses with secure access and easy management.",
-    tags: [
-      {
-        name: "react-web",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "css",
-        color: "green-text-gradient",
-      },
-      {
-        name: "management",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: payroll,
-    hosted_link:
-      "https://frontend-payroll.vercel.app/",
   },
 ];
 
